@@ -3,3 +3,14 @@
 @import "hero.css";
 @import "ArticleText.css";
 @import "article_title.css";
+@import "linea.css";
+@import "icon.css";
+
+.centro{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

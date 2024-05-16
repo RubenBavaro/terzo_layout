@@ -1,8 +1,10 @@
 .hero{
     background: url("../img/test.png");
     background-repeat: no-repeat;
-    width: 2000px;
-    height: 1262.5px;
-    padding-top: 330.75px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 

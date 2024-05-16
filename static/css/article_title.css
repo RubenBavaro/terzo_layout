@@ -1,12 +1,24 @@
-.article_title h2{
+.article_title{
     font-family: "Merriweather", serif;
-    font-weight: 700;
+    font-weight: bold;
     font-style: normal;
     font-size: 80px;
     line-height: 101px;
     color: #FFFFFF;
+    padding-top: 20.5px;
+    padding-bottom: 18.5px;
 }
 
+.Home{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 101px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: flex-end;
+}
 
 
 
