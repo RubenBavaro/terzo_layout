@@ -1,0 +1,18 @@
+.button a:link,
+.button a:visited,
+.button a:hover
+.button a:active{
+    display: block;
+    font-size: 35px;
+    background: #FFFFFF;
+    color: white;
+    font-family: "Merriweather", serif;
+    text-decoration: none;
+    margin-top: 44.5px;
+    position: relative;
+    border-radius: 15px;
+    line-height: 50px;
+    width: 388px;
+    height: 64px;
+}
+

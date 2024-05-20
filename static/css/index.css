@@ -5,6 +5,8 @@
 @import "article_title.css";
 @import "linea.css";
 @import "icon.css";
+@import "linea-bianca.css";
+@import "options.css";
 
 .centro{
     min-height: 100vh;
@@ -14,3 +16,11 @@
     justify-content: center;
     align-items: center;
 }
+
+.orrizontale{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
