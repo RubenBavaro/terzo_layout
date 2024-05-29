@@ -1,17 +1,20 @@
-.options{
+.options ul{
+    display: flex;
+    margin-right: 35px;
+    margin-top: 60px;
+}
+
+.options li{
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
     font-family: 'Merriweather';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 25px;
-    color: #FFFFFF;
-    word-spacing: 55px;
-    margin-right: 35px;
-    margin-top: 87px;
+    margin-left: 55px;
+    color: white;    
 }
-
-
-
-
 
 

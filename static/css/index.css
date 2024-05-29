@@ -1,26 +1,12 @@
 @import "commons.css";
-@import "img.css";
+@import "Article-title-text.css";
 @import "hero.css";
-@import "ArticleText.css";
-@import "article_title.css";
-@import "linea.css";
-@import "icon.css";
-@import "linea-bianca.css";
+@import "button.css";
+@import "social.css";
+@import "options.css";
+@import "centro.css";
+@import "logo.css";
 @import "options.css";
 
-.centro{
-    min-height: 100vh;
-    min-width: 100vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
 
-.orrizontale{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: flex-end;
-}
 
